@@ -1,0 +1,10 @@
+﻿<SolutionConfiguration>
+  <Settings>
+    <AllowParallelTestExecution>False</AllowParallelTestExecution>
+    <MetricsExclusionList>
+      <Value>Calculadora.Domain\Calculadora.Domain.csproj\Entity</Value>
+      <Value>Calculadora.Domain\Calculadora.Domain.csproj\IService</Value>
+    </MetricsExclusionList>
+    <SolutionConfigured>True</SolutionConfigured>
+  </Settings>
+</SolutionConfiguration>
