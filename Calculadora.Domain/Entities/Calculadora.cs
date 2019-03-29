@@ -1,4 +1,4 @@
-﻿namespace Calculadora.Domain.Entity
+﻿namespace Calculadora.Domain.Entities
 {
     public class Calculadora
     {

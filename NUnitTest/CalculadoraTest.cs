@@ -4,7 +4,7 @@ using Moq;
 namespace Calculadora.NUnitTest
 {
     using Autofac.Extras.Moq;
-    using Calculadora.Domain.Entity;
+    using Calculadora.Domain.Entities;
     using Calculadora.Domain.IService;
     using Calculadora.Domain.Service;
 
