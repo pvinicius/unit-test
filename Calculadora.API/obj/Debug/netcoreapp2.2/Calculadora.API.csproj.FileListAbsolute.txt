@@ -1,0 +1,14 @@
+C:\Projects\Calculadora\Calculadora.API\bin\Debug\netcoreapp2.2\Calculadora.API.deps.json
+C:\Projects\Calculadora\Calculadora.API\bin\Debug\netcoreapp2.2\Calculadora.API.runtimeconfig.json
+C:\Projects\Calculadora\Calculadora.API\bin\Debug\netcoreapp2.2\Calculadora.API.runtimeconfig.dev.json
+C:\Projects\Calculadora\Calculadora.API\bin\Debug\netcoreapp2.2\Calculadora.API.dll
+C:\Projects\Calculadora\Calculadora.API\obj\Debug\netcoreapp2.2\Calculadora.API.csprojAssemblyReference.cache
+C:\Projects\Calculadora\Calculadora.API\obj\Debug\netcoreapp2.2\Calculadora.API.csproj.CoreCompileInputs.cache
+C:\Projects\Calculadora\Calculadora.API\obj\Debug\netcoreapp2.2\Calculadora.API.RazorAssemblyInfo.cache
+C:\Projects\Calculadora\Calculadora.API\obj\Debug\netcoreapp2.2\Calculadora.API.RazorAssemblyInfo.cs
+C:\Projects\Calculadora\Calculadora.API\obj\Debug\netcoreapp2.2\Calculadora.API.AssemblyInfoInputs.cache
+C:\Projects\Calculadora\Calculadora.API\obj\Debug\netcoreapp2.2\Calculadora.API.AssemblyInfo.cs
+C:\Projects\Calculadora\Calculadora.API\obj\Debug\netcoreapp2.2\Calculadora.API.RazorTargetAssemblyInfo.cache
+C:\Projects\Calculadora\Calculadora.API\bin\Debug\netcoreapp2.2\Calculadora.API.pdb
+C:\Projects\Calculadora\Calculadora.API\obj\Debug\netcoreapp2.2\Calculadora.API.dll
+C:\Projects\Calculadora\Calculadora.API\obj\Debug\netcoreapp2.2\Calculadora.API.pdb

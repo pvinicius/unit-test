@@ -4,16 +4,17 @@ namespace Calculadora.Domain.Service
 {
     public class CalculadoraService : ICalculadoraService
     {
+        private bool Save(double value) => true;
         public double Sum(double firstNumber, double secondNumber)
         {
+            //Aplicando regra de negócio
             var result = firstNumber + secondNumber;
 
-            //Simulando acesso ao banco de dados
-            var accessed = AccessDataBase();
+            //Acesso ao banco de dados
+            Save(result);
 
             return result;
         }
-        private bool AccessDataBase() => true;
         public double Subtraction(double firstNumber, double secondNumber)
         {
             return firstNumber - secondNumber;
