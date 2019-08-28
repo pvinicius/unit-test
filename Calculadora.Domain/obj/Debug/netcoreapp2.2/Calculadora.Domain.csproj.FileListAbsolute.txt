@@ -7,3 +7,11 @@ C:\Projects\Calculadora\Calculadora.Domain\obj\Debug\netcoreapp2.2\Calculadora.D
 C:\Projects\Calculadora\Calculadora.Domain\obj\Debug\netcoreapp2.2\Calculadora.Domain.AssemblyInfo.cs
 C:\Projects\Calculadora\Calculadora.Domain\obj\Debug\netcoreapp2.2\Calculadora.Domain.dll
 C:\Projects\Calculadora\Calculadora.Domain\obj\Debug\netcoreapp2.2\Calculadora.Domain.pdb
+C:\Projects\unit-test\Calculadora.Domain\bin\Debug\netcoreapp2.2\Calculadora.Domain.deps.json
+C:\Projects\unit-test\Calculadora.Domain\bin\Debug\netcoreapp2.2\Calculadora.Domain.dll
+C:\Projects\unit-test\Calculadora.Domain\bin\Debug\netcoreapp2.2\Calculadora.Domain.pdb
+C:\Projects\unit-test\Calculadora.Domain\obj\Debug\netcoreapp2.2\Calculadora.Domain.csproj.CoreCompileInputs.cache
+C:\Projects\unit-test\Calculadora.Domain\obj\Debug\netcoreapp2.2\Calculadora.Domain.AssemblyInfoInputs.cache
+C:\Projects\unit-test\Calculadora.Domain\obj\Debug\netcoreapp2.2\Calculadora.Domain.AssemblyInfo.cs
+C:\Projects\unit-test\Calculadora.Domain\obj\Debug\netcoreapp2.2\Calculadora.Domain.dll
+C:\Projects\unit-test\Calculadora.Domain\obj\Debug\netcoreapp2.2\Calculadora.Domain.pdb

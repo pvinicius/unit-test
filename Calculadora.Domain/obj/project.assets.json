@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\Calculadora\\Calculadora.Domain\\Calculadora.Domain.csproj",
+      "projectUniqueName": "C:\\Projects\\unit-test\\Calculadora.Domain\\Calculadora.Domain.csproj",
       "projectName": "Calculadora.Domain",
-      "projectPath": "C:\\Projects\\Calculadora\\Calculadora.Domain\\Calculadora.Domain.csproj",
+      "projectPath": "C:\\Projects\\unit-test\\Calculadora.Domain\\Calculadora.Domain.csproj",
       "packagesPath": "C:\\Users\\pedro.araujo.correia\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\Calculadora\\Calculadora.Domain\\obj\\",
+      "outputPath": "C:\\Projects\\unit-test\\Calculadora.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -710,7 +710,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://insperedu.pkgs.visualstudio.com/_packaging/NugetInsper/nuget/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp2.2": {

@@ -1,0 +1,131 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Projects\\unit-test\\Calculadora.API\\Calculadora.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Projects\\unit-test\\Calculadora.API\\Calculadora.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\unit-test\\Calculadora.API\\Calculadora.API.csproj",
+        "projectName": "Calculadora.API",
+        "projectPath": "C:\\Projects\\unit-test\\Calculadora.API\\Calculadora.API.csproj",
+        "packagesPath": "C:\\Users\\pedro.araujo.correia\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\unit-test\\Calculadora.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\pedro.araujo.correia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://insperedu.pkgs.visualstudio.com/_packaging/NugetInsper/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Projects\\unit-test\\Calculadora.Domain\\Calculadora.Domain.csproj": {
+                "projectPath": "C:\\Projects\\unit-test\\Calculadora.Domain\\Calculadora.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Projects\\unit-test\\Calculadora.Domain\\Calculadora.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\unit-test\\Calculadora.Domain\\Calculadora.Domain.csproj",
+        "projectName": "Calculadora.Domain",
+        "projectPath": "C:\\Projects\\unit-test\\Calculadora.Domain\\Calculadora.Domain.csproj",
+        "packagesPath": "C:\\Users\\pedro.araujo.correia\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\unit-test\\Calculadora.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\pedro.araujo.correia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://insperedu.pkgs.visualstudio.com/_packaging/NugetInsper/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

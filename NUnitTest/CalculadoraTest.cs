@@ -6,18 +6,19 @@ namespace Calculadora.NUnitTest
     using Calculadora.Domain.Entities;
     using Calculadora.Domain.IService;
 
+    [TestFixture]
     public class CalculadoraTest
     {
         [Test]
         public void Should_Calculate_Two_Numbers()
         {
             //Arrange
-            var expected = 20;
             var calculadora = new Calculadora()
             {
                 FirstNumber = 10,
                 SecondNumber = 10
             };
+            var expected = calculadora.FirstNumber + calculadora.SecondNumber;
             var _service = new Mock<ICalculadoraService>();
             _service.Setup(s => s.Sum(calculadora.FirstNumber, calculadora.SecondNumber)).Returns(() => expected);
 

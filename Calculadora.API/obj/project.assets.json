@@ -12969,11 +12969,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\Calculadora\\Calculadora.API\\Calculadora.API.csproj",
+      "projectUniqueName": "C:\\Projects\\unit-test\\Calculadora.API\\Calculadora.API.csproj",
       "projectName": "Calculadora.API",
-      "projectPath": "C:\\Projects\\Calculadora\\Calculadora.API\\Calculadora.API.csproj",
+      "projectPath": "C:\\Projects\\unit-test\\Calculadora.API\\Calculadora.API.csproj",
       "packagesPath": "C:\\Users\\pedro.araujo.correia\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\Calculadora\\Calculadora.API\\obj\\",
+      "outputPath": "C:\\Projects\\unit-test\\Calculadora.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12987,13 +12987,13 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://insperedu.pkgs.visualstudio.com/_packaging/NugetInsper/nuget/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Projects\\Calculadora\\Calculadora.Domain\\Calculadora.Domain.csproj": {
-              "projectPath": "C:\\Projects\\Calculadora\\Calculadora.Domain\\Calculadora.Domain.csproj"
+            "C:\\Projects\\unit-test\\Calculadora.Domain\\Calculadora.Domain.csproj": {
+              "projectPath": "C:\\Projects\\unit-test\\Calculadora.Domain\\Calculadora.Domain.csproj"
             }
           }
         }
